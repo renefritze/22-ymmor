@@ -16,7 +16,7 @@ kernelspec:
 
 <center><img src="img/pymor_logo.png" width="70%"></center>
 
-# Do MORe. With Python!
+# Do MOR. With Python!
 
 ## YMMOR 2022
 
